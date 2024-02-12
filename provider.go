@@ -41,3 +41,4 @@ func (p *Provider) GetLink(link string) (interface{}, error) {
 	}
 	return provider.GetLink(link)
 }
+docker compose up -d
