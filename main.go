@@ -9,3 +9,4 @@ func main() {
 	app := app2.NewApplication()
 	log.Fatal(app.Run())
 }
+go main.go
